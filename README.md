@@ -1,6 +1,4 @@
-## Главный член ЛГБТ
-
-*Организация признана экстремистской на территории Российской Федерации.
+### sampAddChatMessage("damn", -1)
 
 <!--
 **arthur29k/arthur29k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
